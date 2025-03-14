@@ -5,7 +5,7 @@
         </td>
         <td align="center" width="75%">
           
-# Ryujinx
+# Ryujinx Mirrior of Greemdev fork
           
 [![Release workflow](https://github.com/Ryubing/Ryujinx/actions/workflows/release.yml/badge.svg)](https://github.com/Ryubing/Ryujinx/actions/workflows/release.yml)
 [![Latest release](https://img.shields.io/github/v/release/Ryubing/Ryujinx)](https://github.com/Ryubing/Ryujinx/releases/latest)
